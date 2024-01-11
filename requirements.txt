@@ -5,3 +5,5 @@ pandas
 scikit-learn
 boto3
 flake8
+optuna
+hydra-core
